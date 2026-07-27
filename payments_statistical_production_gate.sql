@@ -1,4 +1,4 @@
--- PAYMENTS STATISTICS: PRODUCTION QUALITY & DIMENSIONAL AGGREGATION
+-- SQL: PAYMENTS STATISTICS PRODUCTION QUALITY & DIMENSIONAL AGGREGATION
 -- Statistical layer: Multi-dimensional aggregates, variance reconciliation, accuracy metrics
 -- Supports quarterly production with statistical rigor and data completeness validation
 WITH transaction_universe AS (
