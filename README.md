@@ -1,5 +1,5 @@
 # Payments-Statistics-Production-Pipeline
-## Python | R | SQL Integration for Quarterly Statistical Production
+## Python | SQL | R Integration for Quarterly Statistical Production
 ---
 ## Overview
 Complete statistical production framework for Payments Statistics team. Three complementary components:
@@ -23,7 +23,6 @@ R -e "install.packages(c('data.table', 'forecast'))"
 # PostgreSQL 12+
 psql --version
 ```
-
 ### 2. Execute Pipeline
 
 ```bash
